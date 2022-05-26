@@ -1,0 +1,2 @@
+# twittcor
+Net as twitter 
